@@ -1,0 +1,41 @@
+.allure.com	beauty-products
+.totalbeauty.com	reviews
+.paulaschoice.com	beautypedia
+.makeupalley.com	showreview.asp
+.goodhousekeeping.com	product-reviews
+.dermstore.com	review
+.makeupgeek.com	review
+.sleeplikethedead.com	
+.chictopia.com	reviews
+.goodguide.com	
+.solereview.com	review
+.runningshoesguru.com	review
+.topconsumerreviews.com	
+.cnet.com	products
+.engadget.com	
+.consumerreports.org	
+.kirkusreviews.com	book-reviews
+.nytimes.com	books/review
+.bookpage.com	reviews
+.pitchfork.com	reviews
+.tripadvisor.com	review
+.yelp.com	
+.zagat.com	
+.cooksillustrated.com	equipment_reviews
+.eatingwell.com	reviews
+.consumeraffairs.com	
+.dogfoodadvisor.com	reviews
+.petfoodtalk.com	reviews
+.pet-carrier-reviews.com	
+.carbibles.com	productreviews
+.autogeekonline.net	product-reviews
+.autopiaforums.com	detailing-product-reviews
+.epinions.com	
+.consumersearch.com	
+.sazze.com	
+.reevoo.com	
+.retrevo.com	
+.buzzillions.com	reviews
+.dpreview.com	review
+.rateitall.com	
+.pebuzz.com	

@@ -1,0 +1,82 @@
+bedbathandbeyond.com	/product/	checkout	 	 
+roomstogo.com	/product/	checkout	 	 
+wayfair.com	 	checkout	 	 
+homedepot.com	/p/	webapp/wcs/stores/servlet	 	 
+7habitsstore.com	 	checkout/onepage	 	 
+actionvillage.com	 	checkout/onepage	 	 
+amazon.com	/gp/product/	gp/buy/spc/handlers	product-reviews	gp/huc/view.html
+aquasupercenter.com	products	checkoutform	 	 
+babyage.com	 	checkout/onepage	review	 
+bettymills.com	product/view	checkout	 	 
+boscovs.com	Product.bo	ShipBillPay	 	 
+brookstone.com	 	checkout	 	 
+build.com	 	checkout	 	 
+buyonlinenow.com	viewProduct.asp	checkout	 	 
+cafepress.com	 	checkout	 	 
+calendars.com	/prod	checkout	 	 
+chapters.indigo.ca	item	checkout	 	 
+costco.com	.product.	Checkout	reviews	 
+discountramps.com	/p/	checkout	 	 
+disneystore.com	mp/	DSISingleShippingAddressDisplayView	 	 
+drillspot.com	products	Checkout	 	 
+ecost.com	/p/	/o/	 	 
+etronics.com	 	checkout	 	 
+evo.com	shop	checkout	 	 
+fathead.com	 	checkout	 	 
+fingerhut.com	/product/	checkout	 	 
+firststreetonline.com	 	shop.axd	 	AddToCartBP
+gifttree.com	/p3/	checkout	 	 
+hammacher.com	Product/Default.aspx	Checkout	 	 
+hayneedle.com	/product/	checkout	 	 
+hottopic.com	 	Checkout	 	 
+hsn.com	/products/	cmr/account_information.aspx	 	 
+irawoods.com	route=product	checkout	 	 
+kohls.com	/product/	checkout	 	 
+lakeside.com	/prod	checkout	 	 
+leathertree.com	 	checkout	 	 
+levenger.com	 	Checkout	 	 
+lillianvernon.com	product	accordioncheckout	 	 
+lionbrand.com	PictPage	checkout	 	 
+livingdirect.com	pd.html	Checkout	 	CheckoutCart-AddProduct
+magellans.com	 	checkout/onepage	 	 
+mileskimball.com	 	checkout	 	 
+modells.com	product	accordioncheckout	 	 
+novica.com	 	checkout	 	 
+officefurniture2go.com	product	checkout	 	 
+onestepahead.com	.pro	checkout	 	 
+orchard.blair.com	/p/	checkout	 	 
+orientaltrading.com	 	checkout	 	 
+orvis.com	product.aspx	checkout	 	 
+overstock.com	product.html	checkout	customer-reviews	 
+personalcreations.com	gifts	OrderProcess	 	 
+personalizationmall.com	.prod	checkout	 	 
+potpourrigift.com	itemdy00.aspx	Checkout	 	 
+qvc.com	.product.	webapp/wcs/stores/servlet	 	 
+rakuten.com	/prod/	Checkout	 	 
+restockit.com	 	checkout	 	 
+restorationhardware.com	/product/product.jsp	checkout	 	 
+sears.com	p-	Checkout	 	 
+secondipity.com	/dp/	checkout	 	 
+www.shop.com	Catalog/View	Checkout	 	 
+shop.nationalgeographic.com	 	checkout	 	 
+shop4tech.com	 	Checkout	 	 
+shophq.com	 	checkout	 	 
+shoplet.com	product/index.jsp	checkout	 	 
+shoppbs.org	/products/	cart_detail	 	 
+sierratradingpost.com	 	checkout	 	 
+signaturestyleshop.com	/style/	checkout	 	 
+skymall.com	/p/	checkout	 	 
+smoothfitness.com	pview.asp	checkout	 	 
+store.discovery.com	product/index.jsp	checkout	 	 
+store.nascar.com	 	checkout	 	 
+target.com	product.jsp	checkout	 	 
+teamexpress.com	 	checkout	 	 
+theparkcatalog.com	productdetails	checkout	 	 
+theshoppingchannel.com	detail.asp	checkout	 	 
+thinkgeek.com	/product/	checkout	 	 
+touchofclass.com	/product/index.jsp	checkout	 	 
+walmart.com	 	checkout	 	added.php
+weddingshop.theknot.com	 	checkout	 	 
+westmarine.com	/products/	checkout	 	 
+zazzle.com	 	/co/	 	addtocart
+shutterfly.com	~p~	checkout	 	addedtocart

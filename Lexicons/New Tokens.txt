@@ -1,0 +1,336 @@
+1800flowers.com	/product.do	shipping	 	/shoppingbasket.do	Entertainment
+7habitsstore.com	 	checkout/onepage	 	 	Miscellaneous
+acehardware.com	product/index.jsp	checkout	 	 	Tools
+actionenvelope.com	product	checkout	 	additem	Office
+actionvillage.com	 	checkout/onepage	 	 	Miscellaneous
+ae.com	/product.jsp	checkout	 	 	Clothing
+aedsuperstore.com	 	checkout_one	 	 	Beauty
+aeropostale.com	product/index.jsp	checkout	 	 	Clothing
+ajmadison.com	cgi-bin	checkout	 	 	Electronics
+aldoshoes.com	 	checkout	 	 	Clothing
+alibris.com	 	checkout	 	 	Entertainment
+altrec.com	 	checkout	 	 	Clothing
+amazon.com	/gp/product/	gp/buy/spc/handlers	product-reviews	gp/huc/view.html	Miscellaneous
+americanapparel.net	_cat	checkout	 	 	Clothing
+americanblinds.com	productid	checkout	 	 	Home
+americangreetings.com	 	checkout	 	 	Office
+amway.com	Product/Product.aspx	ShoppingCart	 	 	Beauty
+anntaylor.com	/cat	checkout	 	 	Clothing
+aquasupercenter.com	products	checkoutform	 	 	Miscellaneous
+armaniexchange.com	product	singlepagecheckout	 	addToBasket.do	Clothing
+ashford.com	.pid	checkout	 	 	Clothing
+autoanything.com	 	Checkout	 	 	Tools
+autopartsnetwork.com	 	checkout	 	 	Tools
+autozone.com	N-	checkout	 	 	Tools
+babyage.com	 	checkout/onepage	review	 	Miscellaneous
+barenecessities.com	product.htm	checkout	 	 	Clothing
+barnesandnoble.com	/u/	request.aspx	 	 	Entertainment
+basspro.com	/product/	OnepageCheckout	 	 	Entertainment
+batteries.com	 	checkout	 	 	Electronics
+batteriesplus.com	product	checkout	 	 	Electronics
+beautyencounter.com	buy	checkout	 	 	Beauty
+bebe.com	.pro	checkout	 	 	Clothing
+bedbathandbeyond.com	/product/	checkout	 	 	Miscellaneous
+bestbuy.com	.p	olspage.jsp	 	 	Electronics
+betterworldbooks.com	-id-	checkout	 	 	Entertainment
+bettymills.com	product/view	checkout	 	 	Miscellaneous
+biblio.com	 	checkout	 	 	Entertainment
+bikebandit.com	 	checkout	 	 	Tools
+bkstr.com	ProductDisplay	webapp/wcs/stores/servlet	 	 	Entertainment
+blissworld.com	 	checkout	 	 	Beauty
+bluefly.com	/p/	checkout	 	 	Clothing
+bodenusa.com	 	Order	 	 	Clothing
+boscovs.com	Product.bo	ShipBillPay	 	 	Miscellaneous
+bostonproper.com	product.jsp	checkout	 	 	Clothing
+bowflex.com	prdcd	checkout	 	 	Beauty
+brickhousesecurity.com	product	accordioncheckout	 	 	Home
+brookstone.com	 	checkout	 	 	Miscellaneous
+buckle.com	sku-	checkout	 	 	Clothing
+build.com	 	checkout	 	 	Miscellaneous
+buildabear.com	productId	checkout	 	 	Entertainment
+buyonlinenow.com	viewProduct.asp	checkout	 	 	Miscellaneous
+cabelas.com	/product/	checkout	 	item_added_to_cart	Entertainment
+cableorganizer.com	 	checkout	 	 	Electronics
+cafepress.com	 	checkout	 	 	Miscellaneous
+calendars.com	/prod	checkout	 	 	Miscellaneous
+callawaygolf.com	 	CheckoutCart	 	 	Entertainment
+casual-male-big-and-tall.destinationxl.com	/cat	checkout	 	 	Clothing
+cduniverse.com	productinfo.asp	checkout	 	 	Entertainment
+cdw.com	/shop/products/	Checkout	 	 	Electronics
+chapters.indigo.ca	item	checkout	 	 	Miscellaneous
+charlotterusse.com	product	checkout	 	 	Clothing
+chicos.com	product.jsp	checkout	 	 	Clothing
+christianbook.com	/pd/	checkout	 	 	Entertainment
+coach.com	/Product	CheckoutView	 	 	Clothing
+coastal.com	 	checkout	 	 	Clothing
+coffeeforless.com	 	onestepcheckout	 	 	Food
+coldwatercreek.com	/product-detail/	Checkout	 	 	Clothing
+containerstore.com	shop	checkout	 	 	Home
+cooking.com	p01	checkout	 	 	Home
+costco.com	.product.	Checkout	reviews	 	Miscellaneous
+costumecraze.com	 	checkout	tab=reviews	 	Clothing
+cpa2biz.com	 	checkout	 	 	Entertainment
+crateandbarrel.com	 	Checkout	 	 	Home
+crocs.com	pd.html	Cart-StartCheckout	 	 	Clothing
+crutchfield.com	p_	Checkout	 	 	Electronics
+customink.com	categories	checkout	 	 	Clothing
+cvs.com	/shop/product-detail/	checkout	 	 	Beauty
+cymax.com	 	Checkout	 	 	Home
+danskin.com	product	checkout	 	 	Clothing
+databazaar.com	 	checkout/onepage	 	 	Office
+dell.com	productdetail.aspx	chkout	 	 	Electronics
+diamondnexus.com	 	checkout/onepage	 	 	Clothing
+diapers.com	/p/	order	 	 	Clothing
+dickssportinggoods.com	/product/index.jsp	checkout	 	 	Clothing
+discountdance.com	style_	checkout	 	 	Clothing
+discountramps.com	/p/	checkout	 	 	Miscellaneous
+disneystore.com	mp/	DSISingleShippingAddressDisplayView	 	 	Miscellaneous
+doversaddlery.com	/p/	checkout	 	 	Clothing
+dressbarn.com	/detail/	checkout	 	 	Clothing
+drillspot.com	products	Checkout	 	 	Miscellaneous
+drjays.com	shop	Checkout	 	 	Clothing
+drsfostersmith.com	product/prod_display.cfm	checkout	 	 	Pet
+drugstore.com	qxp	checkout	 	 	Beauty
+dsw.com	dsw12cat	checkout	 	 	Clothing
+dwr.com	product	accordioncheckout	 	 	Home
+ecampus.com	/bk/	checkout	 	 	Entertainment
+ecost.com	/p/	/o/	 	 	Miscellaneous
+eddiebauer.com	/product/	checkout	 	 	Clothing
+electricfireplacesdirect.com	 	checkout	 	 	Electronics
+ems.com	product/index.jsp	checkout	 	 	Clothing
+entertainmentearth.com	prodinfo.asp	checkout	 	 	Entertainment
+esteelauder.com	/product/	checkout	 	 	Beauty
+etronics.com	 	checkout	 	 	Miscellaneous
+everythingfurniture.com	 	checkout	 	 	Home
+evo.com	shop	checkout	 	 	Miscellaneous
+fanatics.com	 	checkout	 	 	Clothing
+fansedge.com	 	checkout	 	 	Clothing
+fathead.com	 	checkout	 	 	Miscellaneous
+faucet.com	 	checkout	 	 	Home
+fingerhut.com	/product/	checkout	 	 	Miscellaneous
+finishline.com	/product	checkout	 	 	Clothing
+firststreetonline.com	 	shop.axd	 	AddToCartBP	Miscellaneous
+folica.com	 	checkout	reviews	 	Beauty
+footlocker.com	/product/	checkout	 	 	Clothing
+forever21.com	Product/Product.aspx	CheckOut	 	 	Clothing
+fragrancenet.com	 	checkout	 	 	Clothing
+freshdirect.com	pdp.jsp	checkout	 	/cart_confirm_pdp.jsp	Food
+gaiam.com	 	Checkout	 	 	Beauty
+gamefly.com	 	checkout	 	 	Entertainment
+gamestop.com	/games/	Checkout	reviews	 	Entertainment
+gap.com	/product.do	checkout	 	 	Clothing
+gifttree.com	/p3/	checkout	 	 	Miscellaneous
+gilt.com	/product/	checkout	 	 	Clothing
+gnc.com	product.jsp	checkout.jsp	 	 	Beauty
+goldeneaglecoin.com	item	checkout	 	 	Entertainment
+golfballs.com	 	CheckoutSecure	 	 	Entertainment
+golfsmith.com	/product/	checkout	 	 	Entertainment
+gourmetgiftbaskets.com	 	Checkout	 	 	Food
+greenmountaincoffee.com	category	checkout	 	 	Food
+gymboree.com	dept_item.jsp	checkout	 	 	Clothing
+hallmark.com	 	checkout	 	 	Office
+hamgo.com	products	checkout	 	 	Electronics
+hammacher.com	Product/Default.aspx	Checkout	 	 	Miscellaneous
+hardwarestore.com	 	cartcheckout	 	 	Tools
+hautelook.com	/product/	checkout	 	 	Clothing
+hayneedle.com	/product/	checkout	 	 	Miscellaneous
+homedepot.com	/p/	webapp/wcs/stores/servlet	 	 	Miscellaneous
+hottopic.com	 	Checkout	 	 	Miscellaneous
+hsn.com	/products/	cmr/account_information.aspx	 	 	Miscellaneous
+iherb.com	 	checkout	product-reviews	 	Beauty
+irawoods.com	route=product	checkout	 	 	Miscellaneous
+jcpenney.com	prod.jump	checkout	 	 	Clothing
+jcrew.com	PRDOVR	checkout	 	 	Clothing
+jcwhitney.com	/p	checkout	 	 	Tools
+jefferspet.com	 	checkout	 	 	Pet
+jjbuckley.com	/wine/	checkout	 	 	Food
+jockey.com	product	checkout	 	 	Clothing
+josbank.com	/Product	Checkout	 	 	Clothing
+jpcycles.com	product	checkout	 	 	Tools
+jtv.com	 	Cart-MiniCheckout	 	 	Clothing
+justflowers.com	 	order.asp	 	 	Entertainment
+karmaloop.com	/product/	checkout	 	 	Clothing
+kennethcole.com	product/index.jsp	checkout	 	 	Clothing
+kitchensource.com	 	checkkit	 	 	Home
+kohls.com	/product/	checkout	 	 	Miscellaneous
+lakeside.com	/prod	checkout	 	 	Miscellaneous
+lampsplus.com	/products/	checkout	 	 	Electronics
+ldproducts.com	 	checkout/onepage	 	 	Office
+leapfrog.com	/p/	checkout	 	 	Entertainment
+leathertree.com	 	checkout	 	 	Miscellaneous
+levenger.com	 	Checkout	 	 	Miscellaneous
+lids.com	 	Checkout	 	 	Clothing
+lillianvernon.com	product	accordioncheckout	 	 	Miscellaneous
+limogesjewelry.com	Custom.asp	checkout	 	 	Clothing
+lionbrand.com	PictPage	checkout	 	 	Miscellaneous
+livingdirect.com	pd.html	Checkout	 	CheckoutCart-AddProduct	Miscellaneous
+llbean.com	shop	Checkout	 	 	Clothing
+lowes.com	/pd_	OrderDisplayPendingView	 	 	Home
+luggageonline.com	 	onestepcheckout	 	 	Clothing
+lumberliquidators.com	/c/	checkout	 	 	Tools
+macys.com	/shop/product/	chkout	 	atbpage	Clothing
+magellans.com	 	checkout/onepage	 	 	Miscellaneous
+maxfurniture.com	 	checkout/onepage	 	 	Home
+metrx.com	 	secure	 	 	Food
+mileskimball.com	 	checkout	 	 	Miscellaneous
+modells.com	product	accordioncheckout	 	 	Miscellaneous
+motorcycle-superstore.com	dvg	checkout	 	 	Tools
+mountainequipment.com	product_detail.asp	store_checkout	 	 	Clothing
+musiciansfriend.com	 	checkout	 	cart	Entertainment
+mymms.com	ProductDetails.aspx	checkout	 	 	Food
+neimanmarcus.com	/p.prod	checkout	 	 	Clothing
+net-a-porter.com	/product/	purchasepath	 	 	Clothing
+newegg.com	Product.aspx	Checkout	 	 	Electronics
+nflshop.com	 	checkout	 	 	Clothing
+nike.com	/pd/	checkout	 	 	Clothing
+novica.com	 	checkout	 	 	Miscellaneous
+nutrisystem.com	 	ship_info	 	 	Beauty
+nyandcompany.com	/prod/	checkout	 	 	Clothing
+officefurniture2go.com	product	checkout	 	 	Miscellaneous
+officemax.com	/product-prod	checkout	 	 	Office
+officesupply.com	 	checkout	 	 	Office
+onecall.com	 	onestepcheckout	 	 	Electronics
+onestepahead.com	.pro	checkout	 	 	Miscellaneous
+onewayfurniture.com	 	Checkout	 	 	Home
+onlineshoes.com	p_id	Checkout	 	 	Clothing
+onlinestores.com	 	checkout/onepage	 	 	Office
+opticsplanet.com	 	checkout	reviews	 	Clothing
+orchard.blair.com	/p/	checkout	 	 	Miscellaneous
+orientaltrading.com	 	checkout	 	 	Miscellaneous
+orvis.com	product.aspx	checkout	 	 	Miscellaneous
+overstock.com	product.html	checkout	customer-reviews	 	Miscellaneous
+paintball-online.com	 	NewCheckout	 	 	Entertainment
+parts-express.com	/cat/	CheckoutFlow	 	AddProductToCart.aspx	Electronics
+payless.com	 	checkout	 	 	Clothing
+pcconnection.com	/product/	Checkout	 	 	Electronics
+pcrush.com	product	checkout.asp	 	 	Electronics
+pcuniverse.com	products	checkout	 	 	Electronics
+peapod.com	 	checkout	 	 	Food
+personalcreations.com	gifts	OrderProcess	 	 	Miscellaneous
+personalizationmall.com	.prod	checkout	 	 	Miscellaneous
+peruvianconnection.com	product	accordioncheckout	 	addToBasket.do	Clothing
+petco.com	product	Checkout.aspx	 	 	Pet
+petstore.com	 	checkout/onepage	 	 	Pet
+philips-store.com	productdetail	checkout	 	 	Electronics
+playboystore.com	 	checkout/onepage	 	 	Clothing
+potpourrigift.com	itemdy00.aspx	Checkout	 	 	Miscellaneous
+powells.com	biblio	checkout	 	 	Entertainment
+qvc.com	.product.	Checkout	 	 	Miscellaneous
+radioshack.com	product/index.jsp	checkout	 	 	Electronics
+rakuten.com	/prod/	Checkout	 	 	Miscellaneous
+ralphlauren.com	/product/	checkout	 	 	Clothing
+rei.com	/product/	CheckCart	reviewsTab	 	Clothing
+restockit.com	 	checkout	 	 	Miscellaneous
+restorationhardware.com	/product/product.jsp	checkout	 	 	Miscellaneous
+ritzcamera.com	/product/	checkout	 	 	Electronics
+ritzpix.com	 	checkout	 	 	Office
+rockler.com	 	checkout/onepage	 	 	Tools
+roomstogo.com	/product/	checkout	 	 	Miscellaneous
+ross-simons.com	/products/	checkout	 	 	Clothing
+royaldiscount.com	 	checkout	 	 	Electronics
+ruelala.com	/product/	checkout	 	 	Clothing
+rugs-direct.com	Details	PurchaseInformation	 	 	Home
+rugsusa.com	 	anonOnePageCheckout	 	/additem	Home
+saksfifthavenue.com	/main/ProductDetail.jsp	checkout	productreview	 	Clothing
+scentiments.com	Product/SkuInfo.aspx	Checkout	 	 	Beauty
+sears.com	p-	Checkout	 	 	Miscellaneous
+secondipity.com	/dp/	checkout	 	 	Miscellaneous
+sephora.com	 	checkout	 	 	Beauty
+sheetmusicplus.com	/title/	checkout	 	 	Entertainment
+sheplers.com	.pro	checkout	 	 	Clothing
+shoebuy.com	 	co-routing	 	 	Clothing
+shoemall.com	/p/	checkout	 	 	Clothing
+shop.avon.com	product.aspx	Checkout	 	 	Beauty
+shop.guess.com	Catalog/View	Checkout	 	 	Clothing
+shop.lego.com	 	checkout	 	 	Entertainment
+shop.lululemon.com	products	checkout	 	 	Clothing
+shop.nationalgeographic.com	product	checkout	 	 	Miscellaneous
+shop.nhl.com	 	checkout	 	 	Clothing
+shop.panasonic.com	/model/	checkout	 	 	Electronics
+shop.timberland.com	product/index.jsp	checkout	 	 	Clothing
+shop4tech.com	/item	user.htm	 	 	Miscellaneous
+shophq.com	 	Checkout	 	 	Miscellaneous
+shopjustice.com	 	checkout	 	 	Clothing
+shoplet.com	/spdv	checkout	 	 	Miscellaneous
+shoppbs.org	product/index.jsp	checkout	 	 	Miscellaneous
+shopping.hp.com	/products/	cart_detail	 	 	Electronics
+shutterfly.com	 	checkout	 	 	Miscellaneous
+sierratradingpost.com	~p~	checkout	 	addedtocart	Miscellaneous
+signaturestyleshop.com	 	checkout	 	 	Miscellaneous
+skechers.com	/style/	checkout	 	 	Clothing
+skincarerx.com	 	checkout	 	 	Beauty
+skymall.com	 	COCustomer-Start	 	 	Miscellaneous
+sleepnumber.com	/p/	checkout	 	 	Bedding
+smoothfitness.com	 	jcheckout	 	 	Miscellaneous
+solidsignal.com	pview.asp	checkout	 	 	Electronics
+sonicelectronix.com	item	checkout	 	 	Electronics
+sportsauthority.com	product.jsp	checkout	 	 	Clothing
+stacksandstacks.com	 	OnePageCheckout	 	 	Home
+staples.com	product_	StaplesCheckoutFlow	revs_content	 	Office
+store.apple.com	product/	checkout	 	 	Electronics
+store.delias.com	/product/	checkout	 	/addToBasket.do	Clothing
+store.discovery.com	detail.php	checkout	 	 	Miscellaneous
+store.irobot.com	product/index.jsp	checkout	 	 	Electronics
+store.nascar.com	 	checkout	 	 	Miscellaneous
+store.nba.com	 	checkout	 	 	Clothing
+store.scholastic.com	 	Checkout	 	webapp/wcs/stores/servlet/AjaxOrderItemDisplayView	Entertainment
+store.schoolspecialty.com	ibeCCtpItmDspRte.jsp	xxssi_ibeShoppingCart	 	 	Office
+store.sony.com	catid	Checkout	 	 	Electronics
+superwarehouse.com	/p/	checkout	 	cart/add	Office
+surlatable.com	product	checkout	 	 	Home
+sweetwater.com	detail	checkout	 	 	Entertainment
+swisscolony.com	.pro	checkout	 	 	Food
+symantec.com	 	estore/mf/comboBillingPage	 	 	Electronics
+talbots.com	product_details.jsp	checkout	 	 	Clothing
+target.com	/p/	checkout	 	 	Miscellaneous
+teamexpress.com	product.jsp	checkout	 	 	Miscellaneous
+tempurpedic.com	 	checkout	 	 	Bedding
+tequipment.net	 	checkout	 	 	Electronics
+textbooks.com	 	checkout	 	 	Entertainment
+theparkcatalog.com	 	Portal.aspx	 	 	Miscellaneous
+theshoppingchannel.com	productdetails	checkout	 	 	Miscellaneous
+thewatchery.com	detail.asp	checkout	 	 	Clothing
+thinkgeek.com	product	checkout	 	 	Miscellaneous
+thompsoncigar.com	/product/	checkout	 	 	Food
+tiffany.com	Item.aspx	Checkout	 	 	Clothing
+tigerdirect.com	item-details.asp	Checkout	 	 	Electronics
+tinyprints.com	/product/	orderView	productReviews	 	Office
+titlenine.com	product	accordioncheckout	 	 	Clothing
+toolfetch.com	 	onestepcheckout	 	 	Tools
+toolking.com	 	onestepcheckout	 	justadded	Tools
+toolup.com	 	checkout	 	 	Tools
+touchofclass.com	/p/	checkout	 	 	Miscellaneous
+toysrus.com	/product/index.jsp	checkout	 	 	Entertainment
+ulta.com	productDetail.jsp	checkout	 	 	Beauty
+underarmour.com	/pid	checkout	 	 	Clothing
+urbanoutfitters.com	/productdetail.jsp	checkout	 	 	Clothing
+us.burberry.com	 	checkout	 	 	Clothing
+us.levi.com	product/index.jsp	checkout	 	 	Clothing
+ustoy.com	 	checkout/onepage	 	 	Entertainment
+verabradley.com	product	checkout	 	 	Clothing
+vermontteddybear.com	SellGroup	Checkout	 	 	Entertainment
+victoriassecret.com	ProductID=	checkout	 	 	Clothing
+vintagetub.com	/p/	checkout	 	 	Home
+vitacost.com	productresults	checkout	 	 	Beauty
+walgreens.com	-product	checkout	 	 	Beauty
+walmart.com	/ip/	checkout	 	cart.do	Miscellaneous
+wayfair.com	 	checkout	 	added.php	Miscellaneous
+weddingshop.theknot.com	 	checkout	 	 	Miscellaneous
+westmarine.com	 	checkout	 	 	Miscellaneous
+williams-sonoma.com	/products/	checkout	 	 	Home
+wine.com	Detail.aspx	checkout	 	 	Food
+wisteria.com	productinfo	checkout	 	 	Home
+workingperson.com	 	onestepcheckout	 	 	Clothing
+worldmarket.com	product	accordioncheckout	 	 	Home
+www.art.com	/products/	checkout	 	 	Home
+www.blinds.com	product/productID	checkout	 	 	Home
+www.express.com	/pro/	checkout	 	 	Clothing
+www.furniture.com	 	checkout	 	 	Home
+www.ice.com	-prd-	checkout/onepage	 	 	Clothing
+www.shoes.com	/Product/	Checkout	 	 	Clothing
+www.shop.com	p+.xhtml	checkout	 	 	Miscellaneous
+yankeecandle.com	detail	checkout	 	 	Home
+yesasia.com	info.html	checkout	 	 	Entertainment
+yoox.com	/item	Checkout	 	 	Clothing
+zales.com	product/index.jsp	checkout	 	 	Clothing
+zazzle.com	 	/co/	 	addtocart	Miscellaneous

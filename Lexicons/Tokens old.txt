@@ -1,0 +1,336 @@
+amazon.com	/gp/product/	gp/buy/spc/handlers	product-reviews	gp/huc/view.html
+staples.com	product_	Checkout	revs_content	 
+dell.com	productdetail.aspx	chkout	 	 
+store.apple.com	product/	checkout	 	 
+walmart.com	/ip/	checkout	 	cart.do
+officemax.com	/product-prod	checkout	 	 
+sears.com	p-	Checkout	 	 
+cdw.com	/shop/products/	Checkout	 	 
+bestbuy.com	.p	olspage.jsp	 	 
+qvc.com	.product.	webapp/wcs/stores/servlet	 	 
+newegg.com	Product.aspx	Checkout	 	 
+store.sony.com	catid	Checkout	 	 
+costco.com	.product.	Checkout	reviews	 
+jcpenney.com	prod.jump	checkout	 	 
+shopping.hp.com	/products/	cart_detail	 	 
+victoriassecret.com	ProductID=	checkout	 	 
+macys.com	/shop/product/	chkout	 	atbpage
+target.com	/p/	checkout	 	 
+tigerdirect.com	item-details.asp	Checkout	 	 
+gap.com	/product.do	checkout	 	 
+llbean.com	shop	Checkout	 	 
+hsn.com	/products/	cmr/account_information.aspx	 	 
+williams-sonoma.com	/products/	checkout	 	 
+amway.com	Product/Product.aspx	ShoppingCart	 	 
+overstock.com	product.html	checkout	customer-reviews	 
+shop.avon.com	product.aspx	Checkout	 	 
+rakuten.com	/prod/	Checkout	 	 
+symantec.com	 	estore/mf/comboBillingPage	 	 
+cabelas.com	/product/	checkout	 	item_added_to_cart
+toysrus.com	/product/index.jsp	checkout	 	 
+musiciansfriend.com	 	checkout	 	cart
+homedepot.com	/p/	webapp/wcs/stores/servlet	 	 
+1800flowers.com	/product.do	shipping	 	/shoppingbasket.do
+neimanmarcus.com	/p.prod	checkout	 	 
+barnesandnoble.com	/u/	request.aspx	 	 
+kohls.com	/product/	checkout	 	 
+pcconnection.com	/product/	Checkout	 	 
+saksfifthavenue.com	/main/ProductDetail.jsp	checkout	productreview	 
+drugstore.com	qxp	checkout	 	 
+peapod.com	 	checkout	 	 
+nike.com	/pd/	checkout	 	 
+store.scholastic.com	 	Checkout	 	webapp/wcs/stores/servlet/AjaxOrderItemDisplayView
+jcrew.com	PRDOVR	checkout	 	 
+ae.com	/product.jsp	checkout	 	 
+footlocker.com	/product/	checkout	 	 
+urbanoutfitters.com	/productdetail.jsp	checkout	 	 
+shop.com	p+.xhtml	checkout	 	 
+bkstr.com	ProductDisplay	webapp/wcs/stores/servlet	 	 
+nutrisystem.com	 	ship_info	 	 
+orientaltrading.com	 	checkout	 	 
+crateandbarrel.com	 	Checkout	 	 
+wayfair.com	 	checkout	 	added.php
+rei.com	/product/	CheckCart	reviewsTab	 
+orchard.blair.com	/p/	checkout	 	 
+signaturestyleshop.com	 	checkout	 	 
+disneystore.com	mp/	DSISingleShippingAddressDisplayView	 	 
+shutterfly.com	 	checkout	 	 
+walgreens.com	-product	checkout	 	 
+hayneedle.com	/product/	checkout	 	 
+freshdirect.com	pdp.jsp	checkout	 	/cart_confirm_pdp.jsp
+basspro.com	/product/	OnepageCheckout	 	 
+cvs.com	/shop/product-detail/	checkout	 	 
+sierratradingpost.com	~p~	checkout	 	addedtocart
+ralphlauren.com	/product/	checkout	 	 
+shoebuy.com	 	co-routing	 	 
+coldwatercreek.com	/product-detail/	Checkout	 	 
+vitacost.com	productresults	checkout	 	 
+lowes.com	/pd_	OrderDisplayPendingView	 	 
+etronics.com	 	checkout	 	 
+net-a-porter.com	/product/	purchasepath	 	 
+diapers.com	/p/	order	 	 
+eddiebauer.com	/product/	checkout	 	 
+swisscolony.com	.pro	checkout	 	 
+fingerhut.com	/product/	checkout	 	 
+shophq.com	 	Checkout	 	 
+store.schoolspecialty.com	ibeCCtpItmDspRte.jsp	xxssi_ibeShoppingCart	 	 
+autopartsnetwork.com	 	checkout	 	 
+yoox.com	/item	Checkout	 	 
+greenmountaincoffee.com	category	checkout	 	 
+build.com	 	checkout	 	 
+art.com	/products/	checkout	 	 
+ruelala.com	/product/	checkout	 	 
+restorationhardware.com	/product/product.jsp	checkout	 	 
+drsfostersmith.com	product/prod_display.cfm	checkout	 	 
+talbots.com	product_details.jsp	checkout	 	 
+crutchfield.com	p_	Checkout	 	 
+autozone.com	N-	checkout	 	 
+coastal.com	 	checkout	 	 
+tiffany.com	Item.aspx	Checkout	 	 
+sephora.com	 	checkout	 	 
+gamestop.com	/games/	Checkout	reviews	 
+alibris.com	 	checkout	 	 
+aeropostale.com	product/index.jsp	checkout	 	 
+jcwhitney.com	/p	checkout	 	 
+cafepress.com	 	checkout	 	 
+nflshop.com	 	checkout	 	 
+anntaylor.com	/cat	checkout	 	 
+orvis.com	product.aspx	checkout	 	 
+shop.lego.com	 	checkout	 	 
+dressbarn.com	/detail/	checkout	 	 
+bodenusa.com	 	Order	 	 
+dickssportinggoods.com	/product/index.jsp	checkout	 	 
+metrx.com	 	secure	 	 
+esteelauder.com	/product/	checkout	 	 
+shoplet.com	/spdv	checkout	 	 
+onlineshoes.com	p_id	Checkout	 	 
+gilt.com	/product/	checkout	 	 
+ajmadison.com	cgi-bin	checkout	 	 
+bostonproper.com	product.jsp	checkout	 	 
+express.com	/pro/	checkout	 	 
+potpourrigift.com	itemdy00.aspx	Checkout	 	 
+ritzcamera.com	/product/	checkout	 	 
+hallmark.com	 	checkout	 	 
+lampsplus.com	/products/	checkout	 	 
+fragrancenet.com	 	checkout	 	 
+shoemall.com	/p/	checkout	 	 
+crocs.com	pd.html	Cart-StartCheckout	 	 
+store.delias.com	/product/	checkout	 	/addToBasket.do
+jtv.com	 	Cart-MiniCheckout	 	 
+bedbathandbeyond.com	/product/	checkout	 	 
+ross-simons.com	/products/	checkout	 	 
+theshoppingchannel.com	productdetails	checkout	 	 
+gamefly.com	 	checkout	 	 
+ecost.com	/p/	/o/	 	 
+iherb.com	 	checkout	product-reviews	 
+americangreetings.com	 	checkout	 	 
+chapters.indigo.ca	item	checkout	 	 
+shop.panasonic.com	/model/	checkout	 	 
+bluefly.com	/p/	checkout	 	 
+coach.com	/Product	CheckoutView	 	 
+finishline.com	/product	checkout	 	 
+cymax.com	 	Checkout	 	 
+skymall.com	 	COCustomer-Start	 	 
+drjays.com	shop	Checkout	 	 
+onecall.com	 	onestepcheckout	 	 
+cooking.com	p01	checkout	 	 
+brookstone.com	 	checkout	 	 
+shoes.com	/Product/	Checkout	 	 
+dsw.com	dsw12cat	checkout	 	 
+opticsplanet.com	 	checkout	reviews	 
+customink.com	categories	checkout	 	 
+zales.com	product/index.jsp	checkout	 	 
+chicos.com	product.jsp	checkout	 	 
+hautelook.com	/product/	checkout	 	 
+teamexpress.com	product.jsp	checkout	 	 
+josbank.com	/Product	Checkout	 	 
+ice.com	-prd-	checkout/onepage	 	 
+karmaloop.com	/product/	checkout	 	 
+motorcycle-superstore.com	dvg	checkout	 	 
+fansedge.com	 	checkout	 	 
+hottopic.com	 	Checkout	 	 
+furniture.com	 	checkout	 	 
+petco.com	product	Checkout.aspx	 	 
+autoanything.com	 	Checkout	 	 
+sportsauthority.com	product.jsp	checkout	 	 
+ldproducts.com	 	checkout/onepage	 	 
+personalcreations.com	gifts	OrderProcess	 	 
+americanblinds.com	productid	checkout	 	 
+fanatics.com	 	checkout	 	 
+zazzle.com	 	/co/	 	addtocart
+store.discovery.com	detail.php	checkout	 	 
+underarmour.com	/pid	checkout	 	 
+thompsoncigar.com	/product/	checkout	 	 
+buckle.com	sku-	checkout	 	 
+tempurpedic.com	 	checkout	 	 
+roomstogo.com	/product/	checkout	 	 
+vermontteddybear.com	SellGroup	Checkout	 	 
+personalizationmall.com	.prod	checkout	 	 
+tinyprints.com	/product/	orderView	productReviews	 
+wine.com	Detail.aspx	checkout	 	 
+blinds.com	product/productID	checkout	 	 
+thinkgeek.com	product	checkout	 	 
+barenecessities.com	product.htm	checkout	 	 
+cduniverse.com	productinfo.asp	checkout	 	 
+gnc.com	product.jsp	checkout.jsp	 	 
+databazaar.com	 	checkout/onepage	 	 
+faucet.com	 	checkout	 	 
+radioshack.com	product/index.jsp	checkout	 	 
+golfsmith.com	/product/	checkout	 	 
+onestepahead.com	.pro	checkout	 	 
+lumberliquidators.com	/c/	checkout	 	 
+ecampus.com	/bk/	checkout	 	 
+verabradley.com	product	checkout	 	 
+folica.com	 	checkout	reviews	 
+hammacher.com	Product/Default.aspx	Checkout	 	 
+sweetwater.com	detail	checkout	 	 
+nyandcompany.com	/prod/	checkout	 	 
+mileskimball.com	 	checkout	 	 
+livingdirect.com	pd.html	Checkout	 	CheckoutCart-AddProduct
+shop.guess.com	Catalog/View	Checkout	 	 
+bikebandit.com	 	checkout	 	 
+gaiam.com	 	Checkout	 	 
+playboystore.com	 	checkout/onepage	 	 
+americanapparel.net	_cat	checkout	 	 
+armaniexchange.com	product	singlepagecheckout	 	addToBasket.do
+lillianvernon.com	product	accordioncheckout	 	 
+shopjustice.com	 	checkout	 	 
+levenger.com	 	Checkout	 	 
+fathead.com	 	checkout	 	 
+babyage.com	 	checkout/onepage	review	 
+boscovs.com	Product.bo	ShipBillPay	 	 
+shop.nhl.com	 	checkout	 	 
+callawaygolf.com	 	CheckoutCart	 	 
+goldeneaglecoin.com	item	checkout	 	 
+thewatchery.com	detail.asp	checkout	 	 
+shop.nationalgeographic.com	product	checkout	 	 
+sonicelectronix.com	item	checkout	 	 
+betterworldbooks.com	-id-	checkout	 	 
+diamondnexus.com	 	checkout/onepage	 	 
+textbooks.com	 	checkout	 	 
+philips-store.com	productdetail	checkout	 	 
+gymboree.com	dept_item.jsp	checkout	 	 
+sleepnumber.com	/p/	checkout	 	 
+pcrush.com	product	checkout.asp	 	 
+doversaddlery.com	/p/	checkout	 	 
+store.irobot.com	product/index.jsp	checkout	 	 
+casual-male-big-and-tall.destinationxl.com	/cat	checkout	 	 
+yesasia.com	info.html	checkout	 	 
+payless.com	 	checkout	 	 
+superwarehouse.com	/p/	checkout	 	cart/add
+jpcycles.com	product	checkout	 	 
+tequipment.net	 	checkout	 	 
+lakeside.com	/prod	checkout	 	 
+rugsusa.com	 	anonOnePageCheckout	 	/additem
+buyonlinenow.com	viewProduct.asp	checkout	 	 
+bebe.com	.pro	checkout	 	 
+bowflex.com	prdcd	checkout	 	 
+toolking.com	 	onestepcheckout	 	justadded
+containerstore.com	shop	checkout	 	 
+jjbuckley.com	/wine/	checkout	 	 
+sheetmusicplus.com	/title/	checkout	 	 
+weddingshop.theknot.com	 	checkout	 	 
+blissworld.com	 	checkout	 	 
+us.levi.com	product/index.jsp	checkout	 	 
+smoothfitness.com	 	jcheckout	 	 
+7habitsstore.com	 	checkout/onepage	 	 
+yankeecandle.com	detail	checkout	 	 
+stacksandstacks.com	 	OnePageCheckout	 	 
+discountdance.com	style_	checkout	 	 
+onlinestores.com	 	checkout/onepage	 	 
+jefferspet.com	 	checkout	 	 
+rugs-direct.com	Details	PurchaseInformation	 	 
+rockler.com	 	checkout/onepage	 	 
+skechers.com	/style/	checkout	 	 
+ulta.com	productDetail.jsp	checkout	 	 
+parts-express.com	/cat/	CheckoutFlow	 	AddProductToCart.aspx
+toolup.com	 	checkout	 	 
+store.nba.com	 	checkout	 	 
+powells.com	biblio	checkout	 	 
+restockit.com	 	checkout	 	 
+charlotterusse.com	product	checkout	 	 
+biblio.com	 	checkout	 	 
+christianbook.com	/pd/	checkout	 	 
+cpa2biz.com	 	checkout	 	 
+jockey.com	product	checkout	 	 
+surlatable.com	product	checkout	 	 
+everythingfurniture.com	 	checkout	 	 
+aldoshoes.com	 	checkout	 	 
+mountainequipment.com	product_detail.asp	store_checkout	 	 
+lids.com	 	Checkout	 	 
+westmarine.com	 	checkout	 	 
+actionvillage.com	 	checkout/onepage	 	 
+beautyencounter.com	buy	checkout	 	 
+leapfrog.com	/p/	checkout	 	 
+aedsuperstore.com	 	checkout_one	 	 
+justflowers.com	 	order.asp	 	 
+irawoods.com	route=product	checkout	 	 
+peruvianconnection.com	product	accordioncheckout	 	addToBasket.do
+solidsignal.com	pview.asp	checkout	 	 
+touchofclass.com	/p/	checkout	 	 
+shop.lululemon.com	products	checkout	 	 
+calendars.com	/prod	checkout	 	 
+kennethcole.com	product/index.jsp	checkout	 	 
+altrec.com	 	checkout	 	 
+store.nascar.com	 	checkout	 	 
+onewayfurniture.com	 	Checkout	 	 
+scentiments.com	Product/SkuInfo.aspx	Checkout	 	 
+dwr.com	product	accordioncheckout	 	 
+petstore.com	 	checkout/onepage	 	 
+vintagetub.com	/p/	checkout	 	 
+officesupply.com	 	checkout	 	 
+worldmarket.com	product	accordioncheckout	 	 
+shoppbs.org	product/index.jsp	checkout	 	 
+skincarerx.com	 	checkout	 	 
+luggageonline.com	 	onestepcheckout	 	 
+ems.com	product/index.jsp	checkout	 	 
+discountramps.com	/p/	checkout	 	 
+danskin.com	product	checkout	 	 
+evo.com	shop	checkout	 	 
+forever21.com	Product/Product.aspx	CheckOut	 	 
+hardwarestore.com	 	cartcheckout	 	 
+ashford.com	.pid	checkout	 	 
+limogesjewelry.com	Custom.asp	checkout	 	 
+royaldiscount.com	 	checkout	 	 
+shop.timberland.com	product/index.jsp	checkout	 	 
+gifttree.com	/p3/	checkout	 	 
+pcuniverse.com	products	checkout	 	 
+workingperson.com	 	onestepcheckout	 	 
+toolfetch.com	 	onestepcheckout	 	 
+us.burberry.com	 	checkout	 	 
+coffeeforless.com	 	onestepcheckout	 	 
+hamgo.com	products	checkout	 	 
+ritzpix.com	 	checkout	 	 
+sheplers.com	.pro	checkout	 	 
+batteries.com	 	checkout	 	 
+cableorganizer.com	 	checkout	 	 
+bettymills.com	product/view	checkout	 	 
+entertainmentearth.com	prodinfo.asp	checkout	 	 
+actionenvelope.com	product	checkout	 	additem
+titlenine.com	product	accordioncheckout	 	 
+officefurniture2go.com	product	checkout	 	 
+gourmetgiftbaskets.com	 	Checkout	 	 
+batteriesplus.com	product	checkout	 	 
+electricfireplacesdirect.com	 	checkout	 	 
+leathertree.com	 	checkout	 	 
+secondipity.com	/dp/	checkout	 	 
+wisteria.com	productinfo	checkout	 	 
+brickhousesecurity.com	product	accordioncheckout	 	 
+mymms.com	ProductDetails.aspx	checkout	 	 
+novica.com	 	checkout	 	 
+firststreetonline.com	 	shop.axd	 	AddToCartBP
+magellans.com	 	checkout/onepage	 	 
+maxfurniture.com	 	checkout/onepage	 	 
+acehardware.com	product/index.jsp	checkout	 	 
+kitchensource.com	 	checkkit	 	 
+ustoy.com	 	checkout/onepage	 	 
+golfballs.com	 	CheckoutSecure	 	 
+paintball-online.com	 	NewCheckout	 	 
+aquasupercenter.com	products	checkoutform	 	 
+buildabear.com	productId	checkout	 	 
+shop4tech.com	/item	user.htm	 	 
+drillspot.com	products	Checkout	 	 
+modells.com	product	accordioncheckout	 	 
+lionbrand.com	PictPage	checkout	 	 
+theparkcatalog.com	 	Portal.aspx	 	 
+costumecraze.com	 	checkout	tab=reviews	 

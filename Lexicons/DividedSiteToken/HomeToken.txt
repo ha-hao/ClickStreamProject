@@ -1,0 +1,25 @@
+americanblinds.com	productid	checkout	 	 
+art.com	/products/	checkout	 	 
+blinds.com	product/productID	checkout	 	 
+brickhousesecurity.com	product	accordioncheckout	 	 
+containerstore.com	shop	checkout	 	 
+cooking.com	p01	checkout	 	 
+crateandbarrel.com	 	Checkout	 	 
+cymax.com	 	Checkout	 	 
+dwr.com	product	accordioncheckout	 	 
+everythingfurniture.com	 	checkout	 	 
+faucet.com	 	checkout	 	 
+furniture.com	 	checkout	 	 
+kitchensource.com	 	checkkit	 	 
+lowes.com	/pd_	OrderDisplayPendingView	 	 
+maxfurniture.com	 	checkout/onepage	 	 
+onewayfurniture.com	 	Checkout	 	 
+rugs-direct.com	Details	PurchaseInformation	 	 
+rugsusa.com	 	anonOnePageCheckout	 	/additem
+stacksandstacks.com	product_	Checkout	revs_content	 
+surlatable.com	detail	checkout	 	 
+vintagetub.com	productresults	checkout	 	 
+williams-sonoma.com	Detail.aspx	checkout	 	 
+wisteria.com	 	onestepcheckout	 	 
+worldmarket.com	p+.xhtml	checkout	 	 
+yankeecandle.com	detail	checkout	 	 

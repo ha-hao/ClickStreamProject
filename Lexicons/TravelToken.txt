@@ -1,0 +1,22 @@
+orbitz.com	bookingpath	bookingpath	bookingpath	bookingpath	sail
+cheaptickets.com	bookingpath	bookingpath	bookingpath	bookingpath	sail
+travelocity.com	HotelCheckout	TripPreferences	CarCheckout	TripPreferences	checkout
+priceline.com	contractPayment	details_ret_bk	Payment	travelerInfo	sail
+cheapoair.com	Default	Payment	Default	Default	
+lastminutetravel.com	PageTravelerInformation	PageTravelerInformation	PageTravelerInformation	PageTravelerInformation	PageTravelerInformation
+airgorilla.com	book	cart			
+expedia.com	Checkout	TripPreferences	CarCheckout	TripPreferences	book
+hotwire.com	billing	billing	billing	TripPreferences	
+cheapair.com	review	review	car/purchase		
+booking.com	/book				
+hotels.com		TripPreferences	TripPreferences		
+agoda.com	book				
+airbnb.com	book				
+travelzoo.com	purchase				
+homeaway.com	checkout				
+onetravel.com	Default	Default	Default	Default	
+hipmunk.com	book				
+bedandbreakfast.com	Book				
+ach.travel.yahoo.net	checkout	checkout			
+lonelyplanet.com					
+viator.com					

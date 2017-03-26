@@ -1,0 +1,31 @@
+ajmadison.com	cgi-bin	checkout	 	 
+batteries.com	 	checkout	 	 
+batteriesplus.com	product	checkout	 	 
+bestbuy.com	.p	olspage.jsp	 	 
+cableorganizer.com	 	checkout	 	 
+cdw.com	/shop/products/	Checkout	 	 
+crutchfield.com	p_	Checkout	 	 
+dell.com	productdetail.aspx	chkout	 	 
+electricfireplacesdirect.com	 	checkout	 	 
+hamgo.com	products	checkout	 	 
+lampsplus.com	/products/	checkout	 	 
+newegg.com	Product.aspx	Checkout	 	 
+onecall.com	 	onestepcheckout	 	 
+parts-express.com	/cat/	CheckoutFlow	 	AddProductToCart.aspx
+pcconnection.com	/product/	Checkout	 	 
+pcrush.com	product	checkout.asp	 	 
+pcuniverse.com	products	checkout	 	 
+philips-store.com	productdetail	checkout	 	 
+radioshack.com	product/index.jsp	checkout	 	 
+ritzcamera.com	/product/	checkout	 	 
+royaldiscount.com	 	checkout	 	 
+shop.panasonic.com	product/index.jsp	checkout	 	 
+shopping.hp.com	 	checkout	 	 
+solidsignal.com	item	checkout	 	 
+sonicelectronix.com	product.jsp	checkout	 	 
+store.apple.com	/product/	checkout	 	/addToBasket.do
+store.irobot.com	 	checkout	 	 
+store.sony.com	/p/	checkout	 	cart/add
+symantec.com	product_details.jsp	checkout	 	 
+tequipment.net	 	checkout	 	 
+tigerdirect.com	/product/	orderView	productReviews	 

@@ -1,0 +1,20 @@
+aedsuperstore.com	 	checkout_one	 	 	Beauty
+amway.com	Product/Product.aspx	ShoppingCart	 	 	Beauty
+beautyencounter.com	buy	checkout	 	 	Beauty
+blissworld.com	 	checkout	 	 	Beauty
+bowflex.com	prdcd	checkout	 	 	Beauty
+cvs.com	/shop/product-detail/	checkout	 	 	Beauty
+drugstore.com	qxp	checkout	 	 	Beauty
+esteelauder.com	/product/	checkout	 	 	Beauty
+folica.com	 	checkout	reviews	 	Beauty
+gaiam.com	 	Checkout	 	 	Beauty
+gnc.com	product.jsp	checkout.jsp	 	 	Beauty
+iherb.com	 	checkout	product-reviews	 	Beauty
+nutrisystem.com	 	ship_info	 	 	Beauty
+scentiments.com	Product/SkuInfo.aspx	Checkout	 	 	Beauty
+sephora.com	 	checkout	 	 	Beauty
+shop.avon.com	product.aspx	Checkout	 	 	Beauty
+skincarerx.com	 	COCustomer-Start	 	 	Beauty
+ulta.com	/pid	checkout	 	 	Beauty
+vitacost.com	-product	checkout	 	 	Beauty
+walgreens.com	/ip/	checkout	 	cart.do	Beauty

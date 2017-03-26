@@ -1,0 +1,11 @@
+coffeeforless.com	 	onestepcheckout	 	 
+freshdirect.com	pdp.jsp	checkout	 	/cart_confirm_pdp.jsp
+gourmetgiftbaskets.com	 	Checkout	 	 
+greenmountaincoffee.com	category	checkout	 	 
+jjbuckley.com	/wine/	checkout	 	 
+metrx.com	 	secure	 	 
+mymms.com	ProductDetails.aspx	checkout	 	 
+peapod.com	 	checkout	 	 
+swisscolony.com	 	estore/mf/comboBillingPage	 	 
+thompsoncigar.com	Item.aspx	Checkout	 	 
+wine.com	productinfo	checkout	 	 

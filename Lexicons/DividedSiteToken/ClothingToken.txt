@@ -1,0 +1,100 @@
+ae.com	/product.jsp	checkout	 	 
+aeropostale.com	product/index.jsp	checkout	 	 
+aldoshoes.com	 	checkout	 	 
+altrec.com	 	checkout	 	 
+americanapparel.net	_cat	checkout	 	 
+anntaylor.com	/cat	checkout	 	 
+armaniexchange.com	product	singlepagecheckout	 	addToBasket.do
+ashford.com	.pid	checkout	 	 
+barenecessities.com	product.htm	checkout	 	 
+bebe.com	.pro	checkout	 	 
+bluefly.com	/p/	checkout	 	 
+bodenusa.com	 	Order	 	 
+bostonproper.com	product.jsp	checkout	 	 
+buckle.com	sku-	checkout	 	 
+casual-male-big-and-tall.destinationxl.com	/cat	checkout	 	 
+charlotterusse.com	product	checkout	 	 
+chicos.com	product.jsp	checkout	 	 
+coach.com	/Product	CheckoutView	 	 
+coastal.com	 	checkout	 	 
+coldwatercreek.com	/product-detail/	Checkout	 	 
+costumecraze.com	 	checkout	tab=reviews	 
+crocs.com	pd.html	Cart-StartCheckout	 	 
+customink.com	categories	checkout	 	 
+danskin.com	product	checkout	 	 
+diamondnexus.com	 	checkout/onepage	 	 
+diapers.com	/p/	order	 	 
+dickssportinggoods.com	/product/index.jsp	checkout	 	 
+discountdance.com	style_	checkout	 	 
+doversaddlery.com	/p/	checkout	 	 
+dressbarn.com	/detail/	checkout	 	 
+drjays.com	shop	Checkout	 	 
+dsw.com	dsw12cat	checkout	 	 
+eddiebauer.com	/product/	checkout	 	 
+ems.com	product/index.jsp	checkout	 	 
+express.com	/pro/	checkout	 	 
+fanatics.com	 	checkout	 	 
+fansedge.com	 	checkout	 	 
+finishline.com	/product	checkout	 	 
+footlocker.com	/product/	checkout	 	 
+forever21.com	Product/Product.aspx	CheckOut	 	 
+fragrancenet.com	 	checkout	 	 
+gap.com	/product.do	checkout	 	 
+gilt.com	/product/	checkout	 	 
+gymboree.com	dept_item.jsp	checkout	 	 
+hautelook.com	/product/	checkout	 	 
+ice.com	-prd-	checkout/onepage	 	 
+jcpenney.com	prod.jump	checkout	 	 
+jcrew.com	PRDOVR	checkout	 	 
+jockey.com	product	checkout	 	 
+josbank.com	/Product	Checkout	 	 
+jtv.com	 	Cart-MiniCheckout	 	 
+karmaloop.com	/product/	checkout	 	 
+kennethcole.com	product/index.jsp	checkout	 	 
+lids.com	 	Checkout	 	 
+limogesjewelry.com	Custom.asp	checkout	 	 
+llbean.com	shop	Checkout	 	 
+luggageonline.com	 	onestepcheckout	 	 
+macys.com	/shop/product/	chkout	 	atbpage
+mountainequipment.com	product_detail.asp	store_checkout	 	 
+neimanmarcus.com	/p.prod	checkout	 	 
+net-a-porter.com	/product/	purchasepath	 	 
+nflshop.com	 	checkout	 	 
+nike.com	/pd/	checkout	 	 
+nyandcompany.com	/prod/	checkout	 	 
+onlineshoes.com	p_id	Checkout	 	 
+opticsplanet.com	 	checkout	reviews	 
+payless.com	 	checkout	 	 
+peruvianconnection.com	product	accordioncheckout	 	addToBasket.do
+playboystore.com	 	checkout/onepage	 	 
+ralphlauren.com	/product/	checkout	 	 
+rei.com	/product/	CheckCart	reviewsTab	 
+ross-simons.com	/products/	checkout	 	 
+ruelala.com	/product/	checkout	 	 
+saksfifthavenue.com	/main/ProductDetail.jsp	checkout	productreview	 
+sheplers.com	.pro	checkout	 	 
+shoebuy.com	 	co-routing	 	 
+shoemall.com	/p/	checkout	 	 
+shoes.com	/Product/	Checkout	 	 
+shop.guess.com	 	checkout	 	 
+shop.lululemon.com	product	checkout	 	 
+shop.nhl.com	/model/	checkout	 	 
+shop.timberland.com	/item	user.htm	 	 
+shopjustice.com	/spdv	checkout	 	 
+skechers.com	 	checkout	 	 
+sportsauthority.com	 	OnePageCheckout	 	 
+store.delias.com	detail.php	checkout	 	 
+store.nba.com	 	Checkout	 	webapp/wcs/stores/servlet/AjaxOrderItemDisplayView
+talbots.com	/p/	checkout	 	 
+thewatchery.com	product	checkout	 	 
+tiffany.com	item-details.asp	Checkout	 	 
+titlenine.com	 	onestepcheckout	 	 
+underarmour.com	/productdetail.jsp	checkout	 	 
+urbanoutfitters.com	 	checkout	 	 
+us.burberry.com	product/index.jsp	checkout	 	 
+us.levi.com	 	checkout/onepage	 	 
+verabradley.com	SellGroup	Checkout	 	 
+victoriassecret.com	/p/	checkout	 	 
+workingperson.com	product	accordioncheckout	 	 
+yoox.com	/item	Checkout	 	 
+zales.com	product/index.jsp	checkout	 	 

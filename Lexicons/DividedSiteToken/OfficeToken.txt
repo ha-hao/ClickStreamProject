@@ -1,0 +1,13 @@
+actionenvelope.com	product	checkout	 	additem
+americangreetings.com	 	checkout	 	 
+databazaar.com	 	checkout/onepage	 	 
+hallmark.com	 	checkout	 	 
+ldproducts.com	 	checkout/onepage	 	 
+officemax.com	/product-prod	checkout	 	 
+officesupply.com	 	checkout	 	 
+onlinestores.com	 	checkout/onepage	 	 
+ritzpix.com	 	checkout	 	 
+staples.com	product/	checkout	 	 
+store.schoolspecialty.com	catid	Checkout	 	 
+superwarehouse.com	product	checkout	 	 
+tinyprints.com	product	accordioncheckout	 	 

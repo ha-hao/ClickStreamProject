@@ -1,0 +1,34 @@
+1800flowers.com	/product.do	shipping	 	/shoppingbasket.do
+alibris.com	 	checkout	 	 
+barnesandnoble.com	/u/	request.aspx	 	 
+basspro.com	/product/	OnepageCheckout	 	 
+betterworldbooks.com	-id-	checkout	 	 
+biblio.com	 	checkout	 	 
+bkstr.com	ProductDisplay	webapp/wcs/stores/servlet	 	 
+buildabear.com	productId	checkout	 	 
+cabelas.com	/product/	checkout	 	item_added_to_cart
+callawaygolf.com	 	CheckoutCart	 	 
+cduniverse.com	productinfo.asp	checkout	 	 
+christianbook.com	/pd/	checkout	 	 
+cpa2biz.com	 	checkout	 	 
+ecampus.com	/bk/	checkout	 	 
+entertainmentearth.com	prodinfo.asp	checkout	 	 
+gamefly.com	 	checkout	 	 
+gamestop.com	/games/	Checkout	reviews	 
+goldeneaglecoin.com	item	checkout	 	 
+golfballs.com	 	CheckoutSecure	 	 
+golfsmith.com	/product/	checkout	 	 
+justflowers.com	 	order.asp	 	 
+leapfrog.com	/p/	checkout	 	 
+musiciansfriend.com	 	checkout	 	cart
+paintball-online.com	 	NewCheckout	 	 
+powells.com	biblio	checkout	 	 
+sheetmusicplus.com	/title/	checkout	 	 
+shop.lego.com	products	checkout	 	 
+store.scholastic.com	ibeCCtpItmDspRte.jsp	xxssi_ibeShoppingCart	 	 
+sweetwater.com	.pro	checkout	 	 
+textbooks.com	 	Portal.aspx	 	 
+toysrus.com	productDetail.jsp	checkout	 	 
+ustoy.com	product	checkout	 	 
+vermontteddybear.com	ProductID=	checkout	 	 
+yesasia.com	info.html	checkout	 	 

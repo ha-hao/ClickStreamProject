@@ -1,0 +1,14 @@
+acehardware.com	product/index.jsp	checkout	 	 
+autoanything.com	 	Checkout	 	 
+autopartsnetwork.com	 	checkout	 	 
+autozone.com	N-	checkout	 	 
+bikebandit.com	 	checkout	 	 
+hardwarestore.com	 	cartcheckout	 	 
+jcwhitney.com	/p	checkout	 	 
+jpcycles.com	product	checkout	 	 
+lumberliquidators.com	/c/	checkout	 	 
+motorcycle-superstore.com	dvg	checkout	 	 
+rockler.com	 	checkout/onepage	 	 
+toolfetch.com	 	onestepcheckout	 	justadded
+toolking.com	 	checkout	 	 
+toolup.com	/p/	checkout	 	 

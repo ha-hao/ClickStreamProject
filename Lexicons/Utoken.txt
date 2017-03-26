@@ -1,0 +1,3 @@
+www.homedepot.com	/p/
+www.bestbuy.com	.p
+www.jcpenney.com	prod.jump

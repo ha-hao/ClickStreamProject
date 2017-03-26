@@ -1,0 +1,4 @@
+drsfostersmith.com	product/prod_display.cfm	checkout	 	 
+jefferspet.com	 	checkout	 	 
+petco.com	product	Checkout.aspx	 	 
+petstore.com	 	checkout/onepage	 	 
