@@ -8,6 +8,9 @@ class classifier:
         self.reviewSet = set()
         self.socialMediaSet = set()
 
+    def add_categories_from_folder(self, path):
+        os.listdir(path)
+
     def add_category_from_file(self, f):
         category = file.names[:-9]
         for line in f:
