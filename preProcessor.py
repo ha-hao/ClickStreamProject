@@ -3,6 +3,7 @@ import classifier
 from datetime import datetime, timedelta
 from tld import get_tld
 import glob
+import gzip
 
 
 class preProcessor:
@@ -26,8 +27,9 @@ class preProcessor:
         for single_date in daterange(self.start_date, self.end_date):
             #filepath = os.path.join(self.data_dir,  single_date.strftime("%Y%m%d"))
             filepath = os.path.join(os.path.join(self.data_dir,  single_date.strftime("%Y%m")),single_date.strftime("%Y%m%d"))
-            filepath += "_raw_qa_100K.bcp"
-            with open(filepath, "r") as f:
+            #filepath += "_raw_qa_100K.bcp"
+            filepath += "_raw_qa.bcp.gz"
+            with gzip.open(filepath, "r") as f:
                 self.split_file(f)
             f.close()
 
