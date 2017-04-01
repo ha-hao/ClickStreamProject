@@ -16,7 +16,6 @@ class preProcessor:
         self.data_dir = ""
         self.tempdata_dir = ""
         self.sampled = ""
-        self.activeMap = activeMap()
 
     def __init__(self, classifier, start_month, end_month, data_dir, sampled):
         self.classifier = classifier
@@ -34,13 +33,10 @@ class preProcessor:
             # filepath += "_raw_qa_100K.bcp"
             filepath += "_raw_qa.bcp.gz"
             output_path = os.path.join(self.tempdata_dir,(single_date.strftime("%Y%m%d") + "r"))
-            print(output_path)
             if (not os.path.exists(output_path)) or overwrite:
-                print("here")
                 with gzip.open(filepath, "r") as f:
                 # with open(filepath, "r") as f
                     with open(output_path, "w") as o:
-                        print("line")
                         for line in f:
                             linelist = line.split("\t")
                             try:
@@ -105,6 +101,7 @@ class preProcessor:
         for single_date in daterange(self.start_date, self.end_date):
             for i in range(0,24):
                 path = os.path.join(self.tempdata_dir, single_date.strftime("%Y%m%d") + format(i, '02d'))
+                print(path)
                 if self.sampled:
                     path+="s"
                 with open(path, "r") as f:
@@ -112,13 +109,15 @@ class preProcessor:
                 f.close()
 
     def construct_active_map_instruction(self, f, n):
-        end_time_file_path = os.path.join(self.tempdata_dir, os.path.basename(f.name)[:10] + "i.txt")
-        start_time_file_path = os.path.join(self.tempdata_dir, self.get_start_date(os.path.basename(f.name)[:10], n) +"i.txt")
+        end_time_file_path = os.path.join(self.tempdata_dir, self.get_start_date(os.path.basename(f.name)[:10], -1)  + "i.txt")
+        start_time_file_path = os.path.join(self.tempdata_dir, self.get_start_date(os.path.basename(f.name)[:10], n-1) +"i.txt")
+        print(start_time_file_path)
         with open(end_time_file_path, write_append(end_time_file_path)) as fe, \
                 open(start_time_file_path, write_append(start_time_file_path)) as fs:
             for line in f:
                 linelist = line.split()
                 if self.classifier.checkout_match(linelist[0],linelist[2]):
+                    #print(line)
                     fe.write("-" + linelist[5] + "_" + linelist[0] + "\n")
                     fs.write(linelist[5] + "_" + linelist[0] + "\n")
 

@@ -49,6 +49,7 @@ def daterange(start_date, end_date):
         yield start_date + timedelta(n)
 
 count = 0
+effective_page = 0
 check_out = 0
 social_media = 0
 am = activeMap()
@@ -56,9 +57,10 @@ for single_date in daterange(start_date,end_date):
     for i in range(0,24):
         data_path = wd + "/temp_data/" + single_date.strftime("%Y%m%d") + format(i, '02d') + "s"
         instruction_path = wd + "/temp_data/" + single_date.strftime("%Y%m%d") + format(i, '02d') + "i.txt"
-        with open(instruction_path, "r") as instr:
-            am.update_maps_from_file(instr)
-        instr.close()
+        if os.path.exists(instruction_path):
+            with open(instruction_path, "r") as instr:
+                am.update_maps_from_file(instr)
+            instr.close()
         with open(data_path, "r") as data:
             for line in data:
                 count+=1
@@ -66,14 +68,20 @@ for single_date in daterange(start_date,end_date):
                 host = linelist[0]
                 url = linelist[1]
                 id = linelist[5]
-                if c.checkout_match(host, url):
-                    check_out+=1
-                if c.is_socialmedia(host):
-                    social_media+=1
+                n = am.getIDNum(id)
+                if n != 0:
+                    effective_page += n
+                    if c.checkout_match(host, url):
+                        check_out+= n
+                    if c.is_socialmedia(host):
+                        social_media += n
+
         data.close()
         instr.close()
         print(single_date.strftime("%Y%m%d") + format(i, '02d'))
+
         print(count)
+        print(effective_page)
         print(check_out)
         print(social_media)
 
