@@ -2,7 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8189604-fd66-4bf7-9998-d6ceb9df1073" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_14i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_09" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_07i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_05i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_07i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_11i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_20" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_13" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_10i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_21i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_20i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_23i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_08i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_03i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_20i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_06i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_19i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_23i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_22i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_08i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_12i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_03" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_13i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_06i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_01" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_21" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_21i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_04" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_19i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_11i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_00i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_15" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_16" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_14" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_03i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_18" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_23" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_00" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_05i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_12i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_17" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_08" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_05" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_17i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_16i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_01i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_15i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_13i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_16i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_09i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_09i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_04i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_04i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_02i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_22i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_18i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_02i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_10i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_07" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_01i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_22" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20121229_14i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_15i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_18i.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_02" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_19" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp_data/20130101_17i.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activeMap.py" afterPath="$PROJECT_DIR$/activeMap.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preProcessor.py" afterPath="$PROJECT_DIR$/preProcessor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/temp_data/20121229_00i.txt" afterPath="$PROJECT_DIR$/sampler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ClickStreamProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,7 +92,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ClickStreamProject$test.coverage" NAME="test Coverage Results" MODIFIED="1490986061701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ClickStreamProject$test.coverage" NAME="test Coverage Results" MODIFIED="1490996317057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -27,14 +103,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.82100594">
-              <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_strptime.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_strptime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="316" column="0" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activeMap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/activeMap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,27 +137,27 @@
         <entry file="file://$PROJECT_DIR$/classifier.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="preProcessor.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="preProcessor.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preProcessor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.17751479">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20130101_00" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp_data/20130101_00">
+      <file leaf-file-name="sampler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sampler.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="67" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,6 +187,7 @@
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/classifier.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/sampler.py" />
         <option value="$PROJECT_DIR$/preProcessor.py" />
       </list>
     </option>
@@ -132,6 +227,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,10 +247,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClickStreamProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClickStreamProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClickStreamProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClickStreamProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="201301" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,9 +528,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -446,10 +569,56 @@
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_strptime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="316" column="0" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activeMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preProcessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -465,14 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp_data/20130101_00">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="67" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -632,13 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activeMap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -723,41 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp_data/20130101_01">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp_data/20130101_02">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp_data/20130101_22">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp_data/20130101_23">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp_data/20130101_21">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.993244">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -766,18 +885,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp_data/20130101_00">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/gzip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="67" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp_data/20130101_18">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -785,26 +904,40 @@
     <entry file="file://$PROJECT_DIR$/classifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activeMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_strptime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="316" column="0" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preProcessor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.17751479">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82100594">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

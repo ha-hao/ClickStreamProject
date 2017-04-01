@@ -7,7 +7,7 @@ class activeMap:
         for line in f:
             if line[0] == "-":
                 opt = -1
-                line = line[1,:]
+                line = line[1:]
             else:
                 opt = 1
             id = line.split("_")[0]
