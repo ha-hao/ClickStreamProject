@@ -12,7 +12,7 @@ def showTime(lastEnd):
 
 
 start_time = "20120101"
-end_time = "201201031"
+end_time = "20120131"
 start_time = datetime.strptime(start_time, '%Y%m%d')
 end_time = datetime.strptime(end_time, '%Y%m%d')
 
@@ -21,7 +21,8 @@ timing = time.time()
 
 print("setup")
 c = classifier(os.path.join(os.getcwd(), "Lexicons"))
-wd = os.getcwd() #change this to the data's dir
+wd = os.path.join(os.path.dirname(os.getcwd()),"ClickStreamData")
+print(wd)
 p = preProcessor(c,start_time ,end_time , wd, True)
 timing = showTime(timing)
 
